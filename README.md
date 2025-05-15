@@ -1,2 +1,24 @@
 # Lou32DSC_VM4Tom
-lou32 desired state configuration | module= Virtual Machine
+## lou32 desired state configuration 
+## module= Virtual Machine
+---
+=============================================
+:: Lou32 Desired State Configuration [DSC] ::
+=============================================
+::    CONFIGURATION TITLE: Win10 4 TomL    ::
+=============================================
+<><><><><><><><><><><><><><><><><><><><><><><>
+
+:: CONTENTS 
+
+WinCDEmu
+
+BackyardSkateboarding [Archive]
+
+Lou32DSC_PSSetup [PowerShell Scripts]
+
+Misc MIDI Files For Audio Experience Enjoyment [During Setup Wait Time]
+
+==============================================================================
+END OF LOU32 DESIRED STATE CONFIGURATION USER DEPLOYMENT INFO DELIVERY FILE.
+---
